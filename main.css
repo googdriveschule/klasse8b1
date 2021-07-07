@@ -41,6 +41,7 @@ a:hover{
 }
 body{
   background-color: black;
+  background-image: url("assets/background-block-space.jpg")
   color: #FFFFFF
 }
 .header-container{
