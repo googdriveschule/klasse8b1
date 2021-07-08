@@ -11,7 +11,7 @@ nav{
     text-decoration: none;
     color: #fffb00;
     float: left;
-    font-size: 20px;
+    font-size: 24px;
   }
   nav a:hover{
     color: #ff0037;
@@ -44,6 +44,17 @@ body{
   background-image: linear-gradient( 135deg, rgb(8, 3, 3) 10%, #160092 100%);
   background-color: blue;
   color: #FFFFFF
+}
+.text{ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 7%;
+  color: rgb(255, 255, 255);
+  position: absolute; left: 100px;
+  text-align: center;
+  width: 100%;
+  padding: 1.5%;
+  font-size: 20px;
 }
 .header-container{
   background-image: linear-gradient( 135deg, #160092 10%, #00b409 100%);
