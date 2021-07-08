@@ -9,8 +9,9 @@ nav{
   }
   nav a{
     text-decoration: none;
-    color: #0400ff;
+    color: #fffb00;
     float: left;
+    font-size: 20px;
   }
   nav a:hover{
     color: #ff0037;
@@ -40,9 +41,10 @@ a:hover{
   color: grey;
 }
 body{
+  background-image: linear-gradient( 135deg, rgb(8, 3, 3) 10%, #160092 100%);
   background-color: blue;
   color: #FFFFFF
 }
 .header-container{
-  background-image: linear-gradient( 135deg, rgb(8, 3, 3) 10%, #160092 100%);
+  background-image: linear-gradient( 135deg, #160092 10%, #00b409 100%);
 }
