@@ -45,6 +45,4 @@ body{
 }
 .header-container{
   background-image: linear-gradient( 135deg, rgb(8, 3, 3) 10%, #160092 100%);
-  position: absolute; ;
-  font-size: 18pt;
 }
