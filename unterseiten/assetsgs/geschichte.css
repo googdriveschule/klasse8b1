@@ -1,0 +1,29 @@
+h1{
+	color: white;
+	text-align: center;
+	font-size: 32pt;
+}
+body{
+	background-image: linear-gradient( to right bottom, rgb(0, 3, 3) 10%, blue 100%);
+}
+h2#titel1{
+	text-align: center;
+	font-size: 24pt;
+	color: white;
+}
+p#text1{
+	font-size: 20px;
+	color: white;
+}
+h2#titel2{
+	text-align: center;
+	font-size: 24pt;
+	color: white;
+}
+p#text2{
+	font-size: 20px;
+	color: white;
+}
+p#Credits{
+	color: white;
+}
