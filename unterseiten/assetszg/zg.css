@@ -1,3 +1,22 @@
+nav{
+  margin-top: -2%;
+  padding: 1%;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 2.5%;
+}
+nav a{
+  text-decoration: none;
+  color: #fffb00;
+  float: left;
+  font-size: 24px;
+}
+nav a:hover{
+  color: #ff0037;
+  transition: all 0.4s;
+}
 h1{
 	color: white;
 	text-align: center;
